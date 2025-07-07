@@ -11,8 +11,8 @@ Built with:
 
 ## 👨‍💻 Developed by
 
-- **Arein Jain** ([@areinjain](https://github.com/areinjain))
-- **Aryan Tripathi** ([@aryantripathi](https://github.com/aryantripathi))
+- **Arein Jain** ([@jainarein](https://github.com/jainarein))
+- **Aryan Tripathi** ([@aryantripathi0527](https://github.com/aryantripathi0527))
 
 ---
 
@@ -20,8 +20,8 @@ Built with:
 
 ```
 BloodConnect/
-├── BloodConnect_Frontend_UI/   # React + Vite + MUI frontend
-├── BloodConnect_Backend/       # FastAPI + SQLite backend
+├── Frontend.zip/   # React + Vite + MUI frontend
+├── Backend.zip/       # FastAPI + SQLite backend
 └── README.md                   # Project overview
 ```
 
@@ -95,23 +95,3 @@ Content-Type: application/json
 ```
 
 ---
-
-## 📷 Screenshots
-
-> (You can add screenshots here if you'd like later)
-
----
-
-## 🤝 Contributions
-
-Built as a collaborative project for learning and real-world application.
-
----
-
-## 📄 License
-
-MIT License – feel free to use and contribute!
-
----
-
-> Made with ❤️ by **Arein Jain** & **Aryan Tripathi**
